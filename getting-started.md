@@ -91,7 +91,8 @@ This page is intended to help new comers boot up to  programming and then gradua
 ## Other Resources
 
 * 	[Awesome- Everything about Computer Science](https://github.com/sindresorhus/awesome)
-* 	[AlgoWiki - Collection of all CS resources](https://github.com/vicky002/AlgoWiki) 
+* 	[AlgoWiki - Collection of all CS resources](https://github.com/vicky002/AlgoWiki)
+* 	[OpenCampus](https://www.greycampus.com/opencampus)
 
 
 ## Contributing to this repo
