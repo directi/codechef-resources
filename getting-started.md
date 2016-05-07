@@ -34,6 +34,7 @@ This page is intended to help new comers boot up to  programming and then gradua
 *   [Introduction to Algorithms](http://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 *   [Introduction to Graphs](http://discuss.codechef.com/questions/17801/introduction-to-graphs-definitions-traversal-depth-first-search)
 *   [Computing Factorials of a huge number in C/C++](http://discuss.codechef.com/questions/7349/computing-factorials-of-a-huge-number-in-cc-a-tutorial)
+*   [MAXimal - All algorithms are given brief descriptions and program in C++](http://e-maxx.ru/algo/)
 
 ## Competitive programming references for competitions
 
