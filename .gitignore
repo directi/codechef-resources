@@ -1,0 +1,27 @@
+## Directory-based project format:
+.idea/
+
+.DS_Store
+
+# IntelliJ
+out/
+
+_site
+
+*/.DS_Store
+*/*/.DS_Store
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+*.iml
+
+## File-based project format:
+*.ipr
+*.iws
+
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
