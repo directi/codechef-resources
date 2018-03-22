@@ -75,7 +75,7 @@ This page is intended to help new comers boot up to  programming and then gradua
 ### Java
 
 * 	[Awesome Java](https://github.com/akullpp/awesome-java)
-
+*   [Data structure implementation in Java](https://github.com/CuriousNikhil/data-structures)
 
 ### Python
 
