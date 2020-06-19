@@ -49,6 +49,7 @@ This page is intended to help new comers boot up to  programming and then gradua
 *   [MIT Open Courseware: Video lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/)
 *   [Skiena's Algorithms Lectures](http://www.cs.sunysb.edu/~algorith/video-lectures/)
 *   [Topcoder Algorithm Tutorials](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
+*   [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 
 ## Wikibooks links
 
